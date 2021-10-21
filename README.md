@@ -1,2 +1,39 @@
-# CNet_aTop-downapproach_Lab
+# CNet: A Top-down Approach LAB
+
 My solution of ComputerNetworking: A Top-down Approach Labs and Problems.
+
+The Lectures of CNet please check:
+
+[CNet Lectures](https://github.com/PeterWrighten/ComputerNetworking/blob/main/README.md)
+
+|Lab Note|Solution|
+|:--:|:--:|
+| WiresharkLAB 0  |  - |
+|   |   |
+
+
+# Notes
+
+## WiresharkLAB0
+
+>Actually, this lab is from CS144.
+
+DEMO: Wireshark
+
+Wireshark is an application that lets you actually observe the datagrams being sent and received on your machine over the Internet.
+
+We filtered for packets with a particular IP address (given by Keith):
+
+![demo](/WiresharkLAB0/demo.png)
+
+Image: screenshot of Wireshark filter box, with `ip.dst == 171.64.65.14` filter applied. This filters for IP packets with destination IP address 171.64.65.14.
+
+We then pinged that IP address from a terminal window
+
+```$ ping 171.64.65.14```
+
+**APPENDIX:Wireshark**
+
+>A Network Packet Analyzer
+
+>You could filter the particular IP dst to examine its packet info.
