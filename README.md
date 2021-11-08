@@ -43,4 +43,12 @@ We then pinged that IP address from a terminal window
 * Implementation: Conform Protocol Standard
 * Proprietary APP: Choose Port
 
+> ```127.0.0.1``` is local hostname.
+
 ### Socket Programming with UDP
+Unreliable; Datagram
+
+
+### Socket Programming with TCP
+
+Coneection-oriented; Reliable
