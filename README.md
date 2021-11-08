@@ -9,7 +9,7 @@ The Lectures of CNet please check:
 |Lab Note|Solution|
 |:--:|:--:|
 | WiresharkLAB 0  |  - |
-|   |   |
+| Socket Prog: NetAPP  | [A1]()  |
 
 
 # Notes
@@ -37,3 +37,10 @@ We then pinged that IP address from a terminal window
 >A Network Packet Analyzer
 
 >You could filter the particular IP dst to examine its packet info.
+
+## Socket Programming: Creating Network Applications
+
+* Implementation: Conform Protocol Standard
+* Proprietary APP: Choose Port
+
+### Socket Programming with UDP
