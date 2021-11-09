@@ -24,7 +24,7 @@ Wireshark is an application that lets you actually observe the datagrams being s
 
 We filtered for packets with a particular IP address (given by Keith):
 
-![demo](/WiresharkLAB0/demo.png)
+![demo](/WiresharkLAB/LAB0/demo.png)
 
 Image: screenshot of Wireshark filter box, with `ip.dst == 171.64.65.14` filter applied. This filters for IP packets with destination IP address 171.64.65.14.
 
