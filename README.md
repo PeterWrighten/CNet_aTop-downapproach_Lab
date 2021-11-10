@@ -11,7 +11,7 @@ The Lectures of CNet please check:
 | WiresharkLAB 0  |  - |
 | Socket Prog1  | [A1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/SocketProgramming/Chapter2)  |
 |LAB 1: WebServer|[L1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB1_WebServer)|
-|LAB 2: UDPPinger|[L2]()|
+|LAB 2: UDPPinger|[L2](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB2_UDPPinger)|
 
 
 
