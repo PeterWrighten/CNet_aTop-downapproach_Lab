@@ -55,3 +55,22 @@ Unreliable; Datagram
 ### Socket Programming with TCP
 
 Coneection-oriented; Reliable
+
+
+### Lab 1: WebServer
+
+>Based on TCP Protocol
+
+>Modular: Socket, Sys
+
+**Function:**
+
+- ```socket.socket(socket.AF_INET, socket.SOCK_STREAM)```: Initialization
+
+- ```socket.bind((serverAdress, serverPort))```: Bind socket (Usually Used For Server)
+
+- ```socket.recv(buffer size)```: Receive obj
+
+- ```socket.recvfrom(buffersize, (serverAddress, serverPort))```: Receive obj from server
+
+- 
