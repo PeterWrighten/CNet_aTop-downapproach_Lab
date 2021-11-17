@@ -2,17 +2,20 @@
 
 My solution of ComputerNetworking: A Top-down Approach Labs and Problems.
 
+
 The Lectures of CNet please check:
+
+講義のノートはこちらに取ります：
 
 [CNet Lectures](https://github.com/PeterWrighten/ComputerNetworking/blob/main/README.md)
 
-|Lab Note|Solution|
-|:--:|:--:|
-| WiresharkLAB 0  |  - |
-| Socket Prog1  | [A1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/SocketProgramming/Chapter2)  |
-|LAB 1: WebServer|[L1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB1_WebServer)|
-|LAB 2: UDPPinger|[L2](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB2_UDPPinger)|
-|LAB 3: SMTP|[L3](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB3_SMTP)|
+|Lab　|Solution|問題文の日本語翻訳|
+|:--:|:--:|:--:|
+| WiresharkLAB 0  |  - |-|
+| Socket Prog1  | [A1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/SocketProgramming/Chapter2)  |[TCP/UDP Socket]()|
+|LAB 1: WebServer|[L1](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB1_WebServer)|[ウェブサーバ]()|
+|LAB 2: UDPPinger|[L2](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB2_UDPPinger)|[UDP Pinger]()|
+|LAB 3: SMTP|[L3](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/tree/main/LAB/LAB3_SMTP)|[メールサーバ]()|
 
 
 
